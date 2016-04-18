@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 # KC List
 
 ## Prior to trip
