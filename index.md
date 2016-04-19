@@ -39,7 +39,7 @@ layout: none
 ### Friday
 1. Breakfast at Hotel or maybe out
 2. AM Union Station/Science Center/Rail Museum or Zoo - with Scott and Alex
-3. Lunch - ??
+3. Lunch - At Scott's?
 4. PM Out to Scott's 
 5. Alyssa's Soccer Game
 6. Dinner - Take Out at Scotts
