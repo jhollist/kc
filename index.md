@@ -33,7 +33,7 @@ layout: none
 1. Breakfast at Hotel (get stuff from store)
 2. AM Nelson Museum - Jeff and Max
 3. Lunch at Jack Stack with Grandpa
-4. PM At Grandpa's
+4. PM At Grandpa's or Movie with Grandpa
 5. Dinner at Grandpa's (or maybe out)
 
 ### Friday
